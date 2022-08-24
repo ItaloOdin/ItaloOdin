@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloOdin&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=IItaloOdintheme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[!(https://activity-graph.herokuapp.com/graph?username=IItaloOdintheme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
