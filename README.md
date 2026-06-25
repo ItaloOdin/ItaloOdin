@@ -1,12 +1,17 @@
+### Olá, eu sou o Italo 👋
 
+**Engenheiro de Software Full-Stack.** Na prática, fui a área de tecnologia inteira
+de uma empresa — do banco de dados à infraestrutura, da segurança ao produto final.
+Penso em sistema inteiro e entrego de ponta a ponta.
 
-- Sou novo na progamação
-- Atualmente estou aprendendo linguagens de front-End
-### Main skills:
- ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
- ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
- ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp;
- ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![HTML](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
- 
+🔧 **Stack:** Django · DRF · Python · SvelteKit · TypeScript · PostgreSQL (RLS) ·
+Docker · Celery/Redis · DevOps
 
+🚀 **O que faço hoje:** construo e opero um SaaS CRM multi-tenant em produção —
+isolamento de dados por cliente no nível do banco (PostgreSQL Row-Level Security),
+infra em VPS com Docker, integrações de WhatsApp e Meta Marketing API, módulo de BI.
+*(código proprietário, não público)*
+
+🌱 Também trabalho com dados/BI (R, Power BI) e uso IA como alavanca de produtividade.
+
+📫 [LinkedIn](https://www.linkedin.com/in/italo-kevyn-b47943184)
